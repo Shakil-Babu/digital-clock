@@ -1,0 +1,27 @@
+*{
+    font-family: monospace;
+}
+#showCase{
+    background-image: linear-gradient(#7f7fd5, #86a8e7, #91eae4);
+
+}
+
+.wrapper{
+    background-image: linear-gradient(#1f4037, #99f2c8);
+}
+
+#showMainpart{
+    background:white;
+    border: 1px solid #4a00e0;
+}
+#showTime{
+    font-size: 50px;
+
+}
+#timeFormet{
+    font-size: 25px;
+}
+#showTime, #timeFormet{
+    display: inline-block;
+    
+}
